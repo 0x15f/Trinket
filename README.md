@@ -1,5 +1,5 @@
 # Trinket
-Trinket is a multi-server management system for MCPE servers.
+Trinket is a multi-server management system for MCPE servers,
 
 ### Installation
 It's easy, just make sure you've got virtualenv and Python 3.5 then run the following
